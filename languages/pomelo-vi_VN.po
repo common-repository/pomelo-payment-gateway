@@ -1,0 +1,136 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pomelo\n"
+"POT-Creation-Date: 2021-03-23 11:30+0700\n"
+"PO-Revision-Date: 2021-03-23 11:34+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi_VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+
+#: inc/wc-gateway-pomelo.php:12
+msgid "Proceed to Pomelo"
+msgstr ""
+
+#: inc/wc-gateway-pomelo.php:13
+msgid "Pomelo Payment Gateway"
+msgstr "Cổng thanh toán Pomelo"
+
+#: inc/wc-gateway-pomelo.php:15
+msgid "Pomelo payment gateway"
+msgstr "Cổng thanh toán Pomelo"
+
+#: inc/wc-gateway-pomelo.php:20
+msgid "Secure Online Payment"
+msgstr ""
+
+#: inc/wc-gateway-pomelo.php:21
+msgid "Secure Online Payment description here"
+msgstr ""
+
+#: inc/wc-gateway-pomelo.php:56
+msgid "Payment error:"
+msgstr ""
+
+#: inc/wc-gateway-pomelo.php:64
+msgid "Awaiting Pomelo payment"
+msgstr ""
+
+#: inc/wc-gateway-pomelo.php:107
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] ""
+
+#: inc/wc-gateway-pomelo.php:112
+msgid "Enable/Disable"
+msgstr ""
+
+#: inc/wc-gateway-pomelo.php:114
+msgid "Enable Pomelo Payment"
+msgstr ""
+
+#: inc/wc-gateway-pomelo.php:118
+msgid "Validity"
+msgstr ""
+
+#: inc/wc-gateway-pomelo.php:121
+msgid ""
+"Payment validity in hours, payments will automatically expiry after this "
+"amount of hours if set."
+msgstr ""
+
+#: inc/wc-gateway-pomelo.php:127
+msgid "Webhook Usage"
+msgstr ""
+
+#: inc/wc-gateway-pomelo.php:129
+msgid "Enable webhook"
+msgstr ""
+
+#: inc/wc-gateway-pomelo.php:134
+msgid "Debug Logging"
+msgstr ""
+
+#: inc/wc-gateway-pomelo.php:136
+msgid "Enable debug mode"
+msgstr ""
+
+#: inc/wc-gateway-pomelo.php:137
+#, php-format
+msgid ""
+"If enabled, logs can be viewed <a href=\"%s\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: inc/wc-gateway-pomelo.php:140
+msgid "API credentials"
+msgstr ""
+
+#: inc/wc-gateway-pomelo.php:143
+msgid ""
+"<strong>Note:</strong> %woo_commerce_currency% must match the merchant "
+"account currency on Pomelo Pay."
+msgstr ""
+
+#: inc/wc-gateway-pomelo.php:146
+msgid "Sandbox Mode"
+msgstr ""
+
+#: inc/wc-gateway-pomelo.php:148
+msgid "Enable sandbox mode"
+msgstr ""
+
+#: inc/wc-gateway-pomelo.php:152
+msgid "Sandbox API ID"
+msgstr ""
+
+#: inc/wc-gateway-pomelo.php:154 inc/wc-gateway-pomelo.php:162
+msgid ""
+"Get your API credentials from <a href=\"https://dashboard.dev.pomelopay.com/"
+"connect/applications\" target=\"_blank\">Pomelo</a>."
+msgstr ""
+
+#: inc/wc-gateway-pomelo.php:160
+msgid "Sandbox API key"
+msgstr ""
+
+#: inc/wc-gateway-pomelo.php:168
+msgid "Live API ID"
+msgstr ""
+
+#: inc/wc-gateway-pomelo.php:170 inc/wc-gateway-pomelo.php:178
+msgid ""
+"Get your API credentials from <a href=\"https://dashboard.pomelopay.com/"
+"connect/applications\" target=\"_blank\">Pomelo</a>."
+msgstr ""
+
+#: inc/wc-gateway-pomelo.php:176
+msgid "Live API key"
+msgstr ""
